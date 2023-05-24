@@ -1,0 +1,1 @@
+# Test Mode [![Build status](https://ci.appveyor.com/api/projects/status/lkv39098j9cswlux?svg=true)](https://ci.appveyor.com/project/IlyaaIvanovv/2-3-2-patterns)
